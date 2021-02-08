@@ -9,7 +9,6 @@ AppleDouble
 *.sass-cache
 
 staticfiles*
-mediafiles*
 emailfiles*
 logs/*
 node_modules/*
